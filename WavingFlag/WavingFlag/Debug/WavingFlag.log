@@ -1,0 +1,20 @@
+﻿  WavingFlag.cpp
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(26): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(37): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(38): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(40): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(43): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(44): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(46): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(47): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(49): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(50): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(52): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(53): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(55): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+f:\visual studio projects\computer graphics practice\wavingflag\wavingflag\wavingflag.cpp(56): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+  WavingFlag.vcxproj -> F:\Visual Studio Projects\COMPUTER GRAPHICS practice\WavingFlag\Debug\WavingFlag.exe
+  WavingFlag.vcxproj -> F:\Visual Studio Projects\COMPUTER GRAPHICS practice\WavingFlag\Debug\WavingFlag.pdb (Partial PDB)
